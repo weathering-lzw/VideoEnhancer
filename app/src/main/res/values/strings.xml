@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">画质增强器</string>
+    <string name="channel_bubble">悬浮球服务</string>
+    <string name="channel_bubble_desc">控制悬浮球后台运行</string>
+    <string name="bubble_notification_title">画质增强器正在运行</string>
+    <string name="bubble_notification_text">点击展开控制面板</string>
+    <string name="permission_overlay_title">需要悬浮窗权限</string>
+    <string name="permission_overlay_message">请在设置中开启「显示在其他应用上层」权限，以使用悬浮球功能</string>
+    <string name="permission_notification_title">需要通知权限</string>
+    <string name="permission_notification_message">请允许通知权限以保持悬浮球后台运行</string>
+    <string name="btn_open_settings">前往设置</string>
+    <string name="btn_start">启动悬浮球</string>
+    <string name="btn_stop">关闭悬浮球</string>
+    <string name="preset_original">原始</string>
+    <string name="preset_vivid">鲜艳</string>
+    <string name="preset_soft">柔和</string>
+    <string name="preset_cinema">电影</string>
+    <string name="label_brightness">亮度</string>
+    <string name="label_contrast">对比度</string>
+    <string name="label_saturation">饱和度</string>
+    <string name="label_sharpness">锐度</string>
+    <string name="label_zoom">放大</string>
+    <string name="magnifier_mode">放大镜</string>
+    <string name="open_video">打开视频</string>
+    <string name="settings">设置</string>
+    <string name="close">关闭</string>
+    <string name="ai_sr_title">AI 超分辨率</string>
+    <string name="ai_sr_2x">2x 超分</string>
+    <string name="ai_sr_4x">4x 超分</string>
+    <string name="label_edge_snap">边缘吸附</string>
+    <string name="label_bubble_opacity">悬浮球透明度</string>
+    <string name="label_auto_hide">自动隐藏</string>
+    <string name="about">关于</string>
+    <string name="version">版本</string>
+</resources>

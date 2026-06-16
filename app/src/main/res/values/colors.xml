@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary -->
+    <color name="primary">#FF6C63FF</color>
+    <color name="primary_dark">#FF5A52E0</color>
+    <color name="primary_light">#FF8B83FF</color>
+
+    <!-- Surface / Background -->
+    <color name="background_dark">#FF0A0A0A</color>
+    <color name="surface_dark">#FF1A1A1A</color>
+    <color name="surface_overlay">#CC1A1A1A</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB0B0B0</color>
+
+    <!-- Accent -->
+    <color name="accent_blue">#FF60A5FA</color>
+    <color name="accent_green">#FF34D399</color>
+    <color name="accent_red">#FFF87171</color>
+
+    <!-- Bubble glass effect -->
+    <color name="bubble_gradient_center">#4D6C63FF</color>
+    <color name="bubble_gradient_edge">#1A6C63FF</color>
+</resources>
